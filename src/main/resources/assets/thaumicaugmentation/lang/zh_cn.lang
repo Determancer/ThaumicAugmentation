@@ -20,7 +20,7 @@ item.thaumicaugmentation.material.warding_sigil.name=守护印记
 item.thaumicaugmentation.material.amalgamated_gear.name=齿轮组
 item.thaumicaugmentation.material.rift_energy_cell.name=元动能量单元
 item.thaumicaugmentation.material.harness_base.name=缰绳底座
-item.thaumicaugmentation.seal_copier.name=印记拷贝
+item.thaumicaugmentation.seal_copier.name=印记影印器
 item.thaumicaugmentation.arcane_door.greatwood.name=宏伟之木奥能之扉
 item.thaumicaugmentation.arcane_door.thaumium.name=神秘奥能之扉
 item.thaumicaugmentation.arcane_door.silverwood.name=银树奥能之扉
@@ -33,7 +33,7 @@ item.thaumicaugmentation.rift_seed.flux_aura.name=咒波种子
 item.thaumicaugmentation.augment_caster_elemental.name=元素谐振器
 item.thaumicaugmentation.augment_caster_rift_energy_storage.name=元动能量电池
 item.thaumicaugmentation.fracture_locator.name=裂隙定位器
-item.thaumicaugmentation.augment_custom.name=模块化法师护手增强
+item.thaumicaugmentation.augment_custom.name=模块化法师护手增强器
 item.thaumicaugmentation.morphic_tool.name=变形工具
 item.thaumicaugmentation.primal_cutter.name=元始刃
 
@@ -225,4 +225,4 @@ thaumicaugmentation.research.morphic_tool.1=我发明了一种能有效地将两
 
 thaumicaugmentation.research.primal_cutter.title=元始刃
 thaumicaugmentation.research.primal_cutter.0=元始杵已经证明了自己是一个非常有用的工具，毕竟它本质上相当于四种工具的集合。令人遗憾的是，元始杵本身在特定方面依然有其局限性，那就是由于它十分笨重，且在挥舞时举起它需要花费不少时间，所以它并不适合作为武器使用。然而对我来说，将其形态不稳定性的原理用于制作不同的一套工具应该是可行的......比如说，一套切割用具？
-thaumicaugmentation.research.primal_cutter.1=我的理论是正确的，并且我据此准备制造一件新武器：元始刃。如它的前身一样，它事实上是四种形态不稳定的工具的集合，它们之间的波动太过迅速，以致看起来就像是一个工具。<BR>这种工具和元始杵的主要区别是它的结构中使用了不同的工具，具体来说，元始刃更像是斧和剑的结合体。它比元始杵更轻，因此我能够迅速地挥舞它，这让我能够用强力的切割攻击撕碎我的敌人。<BR>这件武器不仅保留了风雷剑的弧光魔咒和奔流斧的收集魔咒，还有两个额外的独特能力。两者中比较简单的是强大的削弱能力——比虚空剑还要强。元始刃所获得的另一个更加有趣的能力，则是在连续使用该武器时会将物品和生物向我拉近。在我能想到这个新能力的多种用途的同时，我必须小心——被拖动的实体能快速向我靠近，而且在使用该能力时武器会消耗额外的耐久。<BR>通过将这件武器放入合成格位中操作，可以开关这项能力。当我想在副手使用其他的工具或物品时，这也许会派上用场。<BR>尽管两者功能迥异，元始刃仍然与元始杵有一些相同的性质。除了像所有的虚空金属材料一样可以不断地再生之外，元始刃也具备了元始杵那不安的天性。当被拿在手中一段时间后，它会因虚空金属那微不可察的形状变换而微微颤抖。不过这并不妨碍我使用它，因为它是如此趁手的一件武器，令人难忘。<BR>而且我绝不会忘记它。
+thaumicaugmentation.research.primal_cutter.1=我的理论是正确的，并且我据此准备制造一件新武器：元始刃。如它的前身一样，它事实上是四种形态不稳定的工具的集合，它们之间的波动太过迅速，以致整体上看起来就像是一件工具。<BR>这种工具和元始杵的主要区别，是它的结构中使用了不同类别的工具，具体来说，元始刃更像是斧和剑的结合体。它比元始杵更轻，因此我能够迅速地挥舞它，这使我能够用强力的切割攻击撕碎敌人。<BR>这件武器不仅保留了风雷剑的弧光魔咒和奔流斧的收集魔咒，还有两个额外的独特能力。两者中比较简单的是强大的削弱能力——比虚空剑还要强。元始刃所获得的另一个更加有趣的能力，则是在连续使用该武器时会将物品和生物向我拉近。在我能想到这个新能力的多种用途的同时，我必须小心——被拖动的实体能快速向我靠近，而且在使用该能力时武器会消耗额外的耐久。<BR>通过将这件武器放入合成格位中操作，可以开关这项能力。当我想在副手使用其他的工具或物品时，这也许会派上用场。<BR>尽管两者功能迥异，元始刃仍然与元始杵有一些相同的性质。除了像所有的虚空金属材料一样可以不断地再生之外，元始刃也具备了元始杵那不安的天性。当被拿在手中一段时间后，它会因虚空金属那微不可察的形状变换而微微颤抖。不过这并不妨碍我使用它，因为它是如此趁手的一件武器，令人难忘。<BR>而且我绝不会忘记它。
